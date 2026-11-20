@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+# templates/ 의 파일이 정식 본, 최상위 ex1.html 은 중복 사본
+/ex1.html
